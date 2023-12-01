@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="StudyProject/LearningOutcomes.axaml" value="StudyProject/StudyProject.csproj" />
+        <entry key="StudyProject/MainWindow.axaml" value="StudyProject/StudyProject.csproj" />
+        <entry key="StudyProject/Students.axaml" value="StudyProject/StudyProject.csproj" />
+        <entry key="StudyProject/Teachers.axaml" value="StudyProject/StudyProject.csproj" />
+        <entry key="StudyProject/TimetableOfClasses.axaml" value="StudyProject/StudyProject.csproj" />
+        <entry key="StudyProject/courses.axaml" value="StudyProject/StudyProject.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
